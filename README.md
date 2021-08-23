@@ -1,8 +1,11 @@
 # WTRToken
+
 My first token.
 
-Network = BSC
+- Network = BSC
 
-Total supply = 10000
-Token name = WTR Finance
-Token symbol = WTR
+- Total supply = 10000
+
+- Token name = WTR Finance
+
+- Token symbol = WTR
